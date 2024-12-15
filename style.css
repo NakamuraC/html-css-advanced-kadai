@@ -85,7 +85,7 @@ PC用のスタイル
   }
 
   #nav-sp {
-    background: #ce933e;
+    background-color: #ce933e;
     position: absolute;
     left: 0;
     top: 0;
@@ -96,7 +96,7 @@ PC用のスタイル
   }
 
   #nav-sp ul {
-    padding: 0;
+    padding-left: 0;
   }
 
   #nav-sp li {
